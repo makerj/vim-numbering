@@ -1,0 +1,5 @@
+*vim-numbering.txt*      vim-numbering
+
+Toggle relativenumber in a single command
+Use ToggleNumbering command to toggle relative numbering
+
