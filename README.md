@@ -1,5 +1,6 @@
 # vim-numbering
 
+![demo](demo.gif)
 Toggle relativenumber in a single command call
 
 ## Installation
